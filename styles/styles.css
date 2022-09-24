@@ -187,7 +187,14 @@ margin: 35px 0 0 0;
 }
 
 .Form1 {
- margin: 0 0 0 0 ;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    padding:0 0 0 40px;
+    color: rgba(19, 39, 67, 0.5);
+    
 
 }
 
@@ -201,25 +208,32 @@ margin: 35px 0 0 0;
     top: 617px;
     
     /* Gray 1 */
-    
+    padding:0 0 0 20px;
     border: 1px solid #333333;
     border-radius: 6px;
     
 }
 
 .Form2 {
-    margin: 0 0 0 0 ;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    padding:0 0 0 40px;
+    color: rgba(19, 39, 67, 0.5);
+    
 }
 
 .Form3 {
-    ox-sizing: border-box;
+    box-sizing: border-box;
 
     position: absolute;
     width: 535px;
     height: 60px;
     left: 735px;
     top: 701px;
-    
+    padding:0 0 0 40px;
     /* Gray 1 */
     
     border: 1px solid #333333;
@@ -233,7 +247,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 19px;
-
+padding:0 0 0 40px;
 color: rgba(19, 39, 67, 0.5);
 
 }
@@ -263,7 +277,7 @@ color: rgba(19, 39, 67, 0.5);
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    
+    padding:0 0 0 40px;
     color: rgba(19, 39, 67, 0.5);
     
     
